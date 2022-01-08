@@ -1,22 +1,13 @@
-## Getting Started
+## POO e Composição de Objetos 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- Composoção de objetos;
+- Tipos enumerados;
 
-# Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-
-## **Testando** os _titulos_
-
-> _site_ <https://www.google.com>
+- Lógica de programação
+  - Variáveis, entrada, processamento, saída
+  - Estrutura condicional
+  - Estruturas repetitivas
+- OOP básica
+  - Classes, atributos, métodos, objetos
+  - Construtores, encapsulamento
+  - List
