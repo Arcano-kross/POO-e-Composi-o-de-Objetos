@@ -1,7 +1,7 @@
 ## POO e Composição de Objetos 
 
-- Composoção de objetos;
-- Tipos enumerados;
+### Composoção de objetos;
+### Tipos enumerados;
 
 - Lógica de programação
   - Variáveis, entrada, processamento, saída
